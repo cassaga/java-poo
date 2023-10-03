@@ -1,6 +1,6 @@
 package com.wild;
 
-public class Vehicule {
+public abstract class Vehicule {
     private String brand;
     private  int kilometers;
 
