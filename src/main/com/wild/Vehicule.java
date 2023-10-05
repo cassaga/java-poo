@@ -26,8 +26,7 @@ public abstract class Vehicule {
     }
 
 
-   public abstract String doStuff() {
-        return null;
-    }
+   public abstract String doStuff();
+    
 
 }
